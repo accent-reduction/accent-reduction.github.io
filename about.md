@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-In this website, you can find a lot of information on how to lose a foreign accent and get an American accent.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-The accent reduction community is small, but it has a number of passionate people. Foreign actors who want to make it in Hollywood. Professors from abroad who want to convey lectures with a clear, American accent. Accent reduction teachers who know everything about the American accent.
+You can find the source code for the Jekyll new theme at:
+{% include icon-github.html username="jekyll" %} /
+[minima](https://github.com/jekyll/minima)
 
-Unfortunately, a lot of the information about accent reduction is scattered around the internet. This website has websites, books, and everything else I found to be useful for accent reduction students in the hope of helping the accent reduction community.
-
-If you need to contact us or if you have any suggestion, feel free to shoot an email at accent.reduction.h@gmail.com.
+You can find the source code for Jekyll at
+{% include icon-github.html username="jekyll" %} /
+[jekyll](https://github.com/jekyll/jekyll)
